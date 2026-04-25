@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CLIA | Closed-Loop Intelligence Architecture</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Hero Section -->
+  <header class="hero">
+    <h1>CLIA</h1>
+    <p>Closed-Loop Intelligence Architecture</p>
+    <p class="subtext">Verification. Forecasting. Adaptive Action.</p>
+    <div class="cta">
+      <a href="#domains">Explore Domains</a>
+      <a href="resume.pdf">Download Résumé</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </header>
+
+  <!-- Domains Overview -->
+  <section id="domains">
+    <h2>The Three Domains of CLIA</h2>
+    <div class="cards">
+      <div class="card purple">
+        <h3>Epistemic Domain</h3>
+        <p>Truth verification layer. Validates all inputs through source checks, logic gap analysis, and deception detection. Confidence discipline enforced: ≤75% ceiling, 75–95% near‑absolute verification, 95% maximum.</p>
+      </div>
+      <div class="card orange">
+        <h3>Analytical Domain</h3>
+        <p>Forecasting engine. Detects global inflection points via signal mapping, pressure analysis, and timing precision. Forecasts remain probabilistic, never declarative.</p>
+      </div>
+      <div class="card teal">
+        <h3>Operational Domain</h3>
+        <p>Decision OS. Translates verified forecasts into adaptive action states across Shock, Trend, Narrative, Compression, and Transition regimes.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Unified Flow -->
+  <section id="flow">
+    <h2>Unified Flow</h2>
+    <p>Verification → Forecasting → Action → Feedback</p>
+    <p>CLIA guarantees that every forecast is evidence‑anchored, probabilistically disciplined, and regime‑aware.</p>
+  </section>
+
+  <!-- Contact -->
+  <footer id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:yourname@example.com">yourname@example.com</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></p>
+    <p>Download Résumé: <a href="resume.pdf">resume.pdf</a></p>
+  </footer>
+</body>
+</html>
