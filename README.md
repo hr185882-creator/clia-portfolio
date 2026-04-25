@@ -5,12 +5,12 @@ Aurora Grid • K‑ALIGN • Inflection Point Research
 
 ---
 
-## 🔖 Tagline
+
 Expert in Architectural System Design — Connected Ecosystems & Emerging AI Platforms
 
 ---
 
-## 🌐 About CLIA
+
 CLIA is a proprietary tri‑framework intelligence system integrating:
 
 - **Aurora Grid (Adaptive Decision System):** Translates verified forecasts into disciplined action states across Shock, Trend, Narrative, Compression, and Transition regimes.  
