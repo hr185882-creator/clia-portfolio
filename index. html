@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Hasan Kazmi — CLIA Portfolio</title>
-  <style>
+  <link rel="stylesheet" href="style.css">
     body {
       font-family: Arial, sans-serif;
       margin: 0; padding: 0;
