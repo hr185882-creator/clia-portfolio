@@ -9,10 +9,13 @@
       margin: 0; padding: 0;
       background: #f9f9f9; color: #333;
     }
-    header {
-      background: #222; color: #fff;
-      padding: 2rem; text-align: center;
-    }
+    <header class="banner">
+  <img src="banner.jpeg" alt="Hasan Kazmi CLIA Banner">
+  <div class="overlay">
+    <h1>Hasan Kazmi</h1>
+    <p>Expert in Architectural System Design — Creator of CLIA (Aurora Grid, K‑ALIGN, Inflection Point Research)</p>
+  </div>
+</header>
     header h1 { margin: 0; font-size: 2rem; }
     header p { margin: 0.5rem 0 0; font-size: 1.2rem; }
     section { padding: 2rem; max-width: 900px; margin: auto; }
