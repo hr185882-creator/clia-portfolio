@@ -1,4 +1,6 @@
-# # CLIA — Closed‑Loop Intelligence Architecture
+# CLIA — Closed‑Loop Intelligence Architecture
+
+![CLIA Logo Banner](https://copilot.microsoft.com/th/id/BCO.c48ddc99-ca04-4dfe-a376-423b1f100f37.png)
 
 CLIA (Closed‑Loop Intelligence Architecture) is a tri‑domain intelligence framework designed by Hasan Kazmi.  
 It integrates epistemic verification, probabilistic forecasting, and adaptive decision intelligence into a unified, closed‑loop system.
@@ -58,6 +60,4 @@ Deployed via GitHub Pages:
 
 ## 📞 Contact
 
-- **Email:** yourname@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Résumé:** [resume.pdf](resume.pdf) 
+- **Email:**  hr185882@gmail.com   
