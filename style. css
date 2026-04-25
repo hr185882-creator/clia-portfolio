@@ -1,64 +1,69 @@
+</* style.css — Hasan Kazmi CLIA Portfolio Theme */
+
 body {
+  font-family: "Segoe UI", Arial, sans-serif;
   margin: 0;
-  font-family: 'Montserrat', sans-serif;
-  background: #0a1a2f;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  background: #1a1a1a;
   color: #fff;
-}
-
-.hero {
+  padding: 2rem;
   text-align: center;
-  padding: 80px 20px;
-  background: linear-gradient(135deg, #0a1a2f, #003366);
 }
 
-.hero h1 {
-  font-size: 3.5em;
-  color: #00ffff;
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  font-weight: bold;
 }
 
-.subtext {
-  font-size: 1.2em;
-  color: #ffcc00;
+header p {
+  margin: 0.5rem 0 0;
+  font-size: 1.2rem;
+  font-style: italic;
 }
 
-.cta a {
-  margin: 10px;
-  padding: 12px 20px;
-  background: #00ffff;
-  color: #0a1a2f;
+section {
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  color: #222;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  border-bottom: 2px solid #0078d7;
+  padding-bottom: 0.5rem;
+}
+
+ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.buttons {
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.buttons a {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background: #0078d7;
+  color: #fff;
   text-decoration: none;
-  border-radius: 5px;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: background 0.3s ease;
 }
 
-.cards {
-  display: flex;
-  justify-content: space-around;
-  margin: 40px 20px;
-  flex-wrap: wrap;
+.buttons a:hover {
+  background: #005fa3;
 }
-
-.card {
-  flex: 1;
-  margin: 10px;
-  padding: 20px;
-  border-radius: 8px;
-  color: #fff;
-  min-width: 250px;
-}
-
-.purple { background: #6a0dad; }
-.orange { background: #ff6600; }
-.teal { background: #008080; }
-
-#flow {
-  text-align: center;
-  padding: 40px;
-  background: #001122;
-}
-
-footer {
-  text-align: center;
-  padding: 40px;
-  background: #001122;
-}
-footer a { color: #00ffff; }
