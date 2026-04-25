@@ -60,4 +60,6 @@ Deployed via GitHub Pages:
 
 ## 📞 Contact
 
-- **Email:**  hr185882@gmail.com   
+- **Email:**  hr185882@gmail.com
+- **Résumé (Recruiter):** [resume.pdf](resume.pdf)  
+- **Résumé (Portfolio):** [portfolio_resume.pdf](portfolio_resume.pdf)   
