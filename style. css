@@ -1,4 +1,4 @@
-</* style.css — Hasan Kazmi CLIA Portfolio Theme */
+/* style.css – Hasan Kazmi CLIA Portfolio Theme */
 
 body {
   font-family: "Segoe UI", Arial, sans-serif;
@@ -6,21 +6,52 @@ body {
   padding: 0;
   background: #f9f9f9;
   color: #333;
-  line-height: 
+  line-height: 1.6;
 }
 
-header h1 {
+/* Banner + Overlay */
+.banner {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.banner .overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  padding: 1rem 2rem;
+  border-radius: 6px;
+  background: linear-gradient(
+    rgba(0, 0, 0, 0.6),
+    rgba(0, 0, 0, 0.2)
+  );
+  animation: fadeIn 1.5s ease-in-out; /* smooth fade-in */
+}
+
+.banner .overlay h1 {
   margin: 0;
   font-size: 2.5rem;
   font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
 }
 
-header p {
-  margin: 0.5rem 0 0;
+.banner .overlay p {
+  margin-top: 0.5rem;
   font-size: 1.2rem;
-  font-style: italic;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
 }
 
+/* Sections */
 section {
   padding: 2rem;
   max-width: 900px;
@@ -40,9 +71,9 @@ ul {
   padding-left: 1.5rem;
 }
 
+/* Buttons */
 .buttons {
   margin-top: 1.5rem;
-  text-align: center;
 }
 
 .buttons a {
@@ -53,10 +84,14 @@ ul {
   color: #fff;
   text-decoration: none;
   border-radius: 4px;
-  font-weight: bold;
   transition: background 0.3s ease;
 }
 
 .buttons a:hover {
   background: #005fa3;
 }
+
+/* Fade-in animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translate(-50%, -60%); }
+  to { opacity:
