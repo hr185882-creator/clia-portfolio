@@ -2,42 +2,16 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Hasan Kazmi — CLIA Portfolio</title>
+  <title>Hasan Kazmi – CLIA Portfolio</title>
   <link rel="stylesheet" href="style.css">
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0; padding: 0;
-      background: #f9f9f9; color: #333;
-    }
-    <header class="banner">
-  <img src="banner.jpeg" alt="Hasan Kazmi CLIA Banner">
-  <div class="overlay">
-    <h1>Hasan Kazmi</h1>
-    <p>Expert in Architectural System Design — Creator of CLIA (Aurora Grid, K‑ALIGN, Inflection Point Research)</p>
-  </div>
-</header>
-    header h1 { margin: 0; font-size: 2rem; }
-    header p { margin: 0.5rem 0 0; font-size: 1.2rem; }
-    section { padding: 2rem; max-width: 900px; margin: auto; }
-    h2 { color: #222; margin-top: 2rem; }
-    ul { margin: 0; padding-left: 1.5rem; }
-    .buttons {
-      margin-top: 1.5rem;
-    }
-    .buttons a {
-      display: inline-block;
-      margin: 0.5rem;
-      padding: 0.75rem 1.5rem;
-      background: #0078d7; color: #fff;
-      text-decoration: none; border-radius: 4px;
-    }
-    .buttons a:hover { background: #005fa3; }
-  </style>
 </head>
 <body>
-  <header>
-    <h1>Hasan Kazmi</h1>
-    <p>Expert in Architectural System Design — Creator of CLIA (Aurora Grid, K‑ALIGN, Inflection Point Research)</p>
+  <header class="banner">
+    <img src="banner.jpeg" alt="Hasan Kazmi CLIA Banner">
+    <div class="overlay">
+      <h1>Hasan Kazmi</h1>
+      <p>Expert in Architectural System Design — Creator of CLIA (Aurora Grid, K‑ALIGN, Inflection Point Research)</p>
+    </div>
   </header>
 
   <section>
@@ -48,25 +22,11 @@
       <li><strong>K‑ALIGN (Epistemic Verification Protocol):</strong> Validates all inputs through source checks, logic gap analysis, deception detection, and confidence discipline thresholds.</li>
       <li><strong>Inflection Point Research (Forecasting Engine):</strong> Detects global inflection points via signal mapping, pressure analysis, and timing precision.</li>
     </ul>
-    <p><em>Unified Flow:</em> Verification → Forecasting → Action → Feedback</p>
+    <p><em>Unified Flow:</em> Verification – Forecasting – Action – Feedback</p>
   </section>
 
   <section>
     <h2>Technical Expertise</h2>
     <ul>
-      <li>Operating Systems: Windows 11 Pro, Linux (Ubuntu, Fedora, Arch, Red Hat), iOS, iPadOS, macOS, tvOS, Android, ChromeOS, Amazon Fire OS, Roku TV, Samsung Tizen, Sony OS, LG webOS, Motorola OS</li>
-      <li>Connected Ecosystems: Samsung Galaxy Connect, Sony Connected Ecosystem, JBL Connect, Bose Connect, Spotify Connect, Apple Continuity & AirPlay</li>
-      <li>Automation: Exhaustive macro knowledge across all platforms; open‑source integration across proprietary systems</li>
-      <li>Emerging Tech: Google’s upcoming Aluminium OS, NPU‑centric computing, AI integration into smart devices (Gemini, Siri)</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Résumés</h2>
-    <div class="buttons">
-      <a href="resume.pdf" download>Download Recruiter Résumé</a>
-      <a href="portfolio_resume.pdf" download>Download Portfolio Résumé</a>
-    </div>
-  </section>
-</body>
-</html>
+      <li>Operating Systems: Windows 11 Pro, Linux (Ubuntu, Fedora, Arch, Red Hat), iOS, iPads, macOS, tvOS, Android, ChromeOS, Amazon Fire OS, Roku TV, Samsung Tizen, Sony OS, LG webOS, Motorola OS</li>
+      <li>Connected Ecosystems: Samsung Galaxy Connect, Sony Connected Ecosystems, JBL Connect, Bose Connect, Spotify
