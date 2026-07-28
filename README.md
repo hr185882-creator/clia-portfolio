@@ -11,6 +11,7 @@ My work focuses on open-source intelligence, source verification, political and 
 A source-first public research interface separating adjudicated responsibility, unresolved allegations, association records, institutional failure, and unsupported conspiracy claims.
 
 - Live: https://the-epstein-record.vercel.app/
+- Sanitized source kit: [architecture, privacy controls, fictional claim ledger, and CI](sanitized-repositories/the-epstein-record/)
 - Product type: investigative research platform
 - Core capabilities: reviewed claim ledger, reviewed-person profiles, sanitized flight records, document viewer, source controls, evidence-grounded question answering, privacy boundaries, and QA-tested public release
 
@@ -19,6 +20,7 @@ A source-first public research interface separating adjudicated responsibility, 
 A structured evidence-verification and dossier-publication platform for converting large source collections into auditable analytical products.
 
 - Live: https://record-lock-platform.vercel.app/
+- Sanitized source kit: [architecture, claim schema, fictional example record, and CI](sanitized-repositories/record-lock/)
 - Product type: evidence and research architecture
 - Core capabilities: provenance, claim classification, counterarguments, falsifiers, confidence controls, revision conditions, and controlled public releases
 
@@ -27,6 +29,7 @@ A structured evidence-verification and dossier-publication platform for converti
 A source-audited research product examining campaign finance, security assistance, diplomacy, intelligence controversies, and policy friction without collapsing documented influence into unsupported claims of unified control.
 
 - Live: https://youname-it.vercel.app/
+- Repository: https://github.com/hr185882-creator/US-Israel-Policy-Network
 - Product type: geopolitical and policy-analysis publication
 - Core capabilities: evidence labels, institutional analysis, claim ledger, historical cases, official-source register, and interactive filtering
 
@@ -35,6 +38,7 @@ A source-audited research product examining campaign finance, security assistanc
 An editorial portfolio containing public-interest research products and the methodology behind them.
 
 - Live: https://hasan-research-systems.vercel.app/
+- Repository: https://github.com/hr185882-creator/Research-decision-systems
 - Includes: EU Chat Control Monitor and The Russian JFK Dossier
 
 ### AURORA Learning Platform
@@ -51,12 +55,19 @@ A decision-intelligence operating system for evidence verification, adversarial 
 - Live: https://hr185882-creator.github.io/aurora-grid-grindwire-site/
 - Repository: https://github.com/hr185882-creator/aurora-grid-grindwire-site
 
+## Engineering and publication controls
+
+The public flagship repositories use GitHub Actions for deterministic validation of JSON, HTML parsing, Python syntax, local Markdown links, available Node.js builds, and high-severity dependency changes on pull requests.
+
+The sanitized source kits exclude production corpora, victim-identifying information, private notes, credentials, licensed documents, and production-only controls. Their included records are fictional examples designed solely to demonstrate architecture and schema discipline.
+
 ## Supporting research and systems
 
 - Inflection Point Research: https://github.com/hr185882-creator/inflection-point-research
 - AURORA LIVE / Intel Tripwire: https://github.com/hr185882-creator/intel-tripwire
 - Kristi Noem cabinet-stability forecast: [case study](case-studies/kristi-noem-cabinet-stability-forecast.md)
 - Full project index: [PROJECTS.md](PROJECTS.md)
+- Sanitized public repository kits: [index](sanitized-repositories/)
 
 ## Analytical method
 
