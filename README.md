@@ -1,40 +1,35 @@
-# Hasan Kazmi — Expert in Architectural System Design
+# Hasan Raza Kazmi - Decision Intelligence Portfolio
 
-**Creator of CLIA (Closed‑Loop Intelligence Architecture)**  
-Aurora Grid • K‑ALIGN • Inflection Point Research
+This repository contains an earlier portfolio build for the decision-intelligence system now developed as **AURORA GRID OS / GrindWire**.
 
----
+## Current canonical links
 
+- GitHub profile: https://github.com/hr185882-creator
+- AURORA GRID / GrindWire live site: https://hr185882-creator.github.io/aurora-grid-grindwire-site/
+- AURORA GRID / GrindWire repository: https://github.com/hr185882-creator/aurora-grid-grindwire-site
+- AURORA Learning Platform: https://github.com/hr185882-creator/aurora-learning-platform
+- Inflection Point Research: https://github.com/hr185882-creator/inflection-point-research
+- AURORA LIVE / Intel Tripwire: https://github.com/hr185882-creator/intel-tripwire
 
-Expert in Architectural System Design — Connected Ecosystems & Emerging AI Platforms
+## System overview
 
----
+AURORA GRID integrates evidence verification, adversarial evaluation, constraint-first forecasting, scenario analysis, calibrated risk, action routing, and auditable record keeping.
 
+Core modules include:
 
-CLIA is a proprietary tri‑framework intelligence system integrating:
+- **SCOUT** - signal intake and anomaly detection
+- **SOURCEGRID** - provenance and source-chain mapping
+- **K-ALIGN** - claim classification and evidence alignment
+- **BLACKGLASS** - adversarial thesis testing
+- **CRF / IPR** - constraint-first and structural forecasting
+- **COMMAND** - decision arbitration and action routing
+- **RECORD LOCK** - reproducible evidence and revision history
 
-- **Aurora Grid (Adaptive Decision System):** Translates verified forecasts into disciplined action states across Shock, Trend, Narrative, Compression, and Transition regimes.  
-- **K‑ALIGN (Epistemic Verification Protocol):** Validates all inputs through source checks, logic gap analysis, deception detection, and confidence discipline thresholds.  
-- **Inflection Point Research (Forecasting Engine):** Detects global inflection points via signal mapping, pressure analysis, and timing precision.  
+## Legacy deployment
 
-**Unified Flow:** Verification → Forecasting → Action → Feedback
+- GitHub Pages: https://hr185882-creator.github.io/clia-portfolio/
 
----
+## Contact
 
-## 🖥️ Technical Expertise
-- **Operating Systems:** Windows 11 Pro, Linux (Ubuntu, Fedora, Arch, Red Hat), iOS, iPadOS, macOS, tvOS, Android, ChromeOS, Amazon Fire OS, Roku TV, Samsung Tizen, Sony OS, LG webOS, Motorola OS  
-- **Connected Ecosystems:** Samsung Galaxy Connect, Sony Connected Ecosystem, JBL Connect, Bose Connect, Spotify Connect, Apple Continuity & AirPlay  
-- **Automation:** Exhaustive macro knowledge across all platforms; open‑source integration across proprietary systems  
-- **Emerging Tech:** Familiar with Google’s upcoming Aluminium OS (AI‑first desktop OS complementing ChromeOS), NPU‑centric computing, and AI integration into smart devices (Gemini, Siri)  
-
----
-
-## 📂 Résumés
-- [Recruiter Résumé (PDF)](resume.pdf)  
-- [Portfolio Résumé (PDF)](portfolio_resume.pdf)  
-
----
-
-## 🚀 Deployment
-This repository hosts Hasan’s portfolio website showcasing CLIA.  
-Deployed via GitHub Pages: [https://hasan-clia.github.io/clia-portfolio](https://hasan-clia.github.io/clia-portfolio)
+- Email: kazmihasan624@gmail.com
+- Location: Sargodha, Pakistan - fully remote
