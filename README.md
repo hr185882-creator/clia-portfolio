@@ -11,7 +11,7 @@ My work focuses on open-source intelligence, source verification, political and 
 A source-first public research interface separating adjudicated responsibility, unresolved allegations, association records, institutional failure, and unsupported conspiracy claims.
 
 - Live: https://the-epstein-record.vercel.app/
-- Repository: https://github.com/hr185882-creator/the-Epstein-record
+- Repository: https://github.com/hr185882-creator/the-epstein-record
 - Product type: investigative research platform
 - Core capabilities: reviewed claim ledger, reviewed-person profiles, sanitized flight records, document viewer, source controls, evidence-grounded question answering, privacy boundaries, and QA-tested public release
 
@@ -29,7 +29,7 @@ A structured evidence-verification and dossier-publication platform for converti
 A source-audited research product examining campaign finance, security assistance, diplomacy, intelligence controversies, and policy friction without collapsing documented influence into unsupported claims of unified control.
 
 - Live: https://youname-it.vercel.app/
-- Repository: https://github.com/hr185882-creator/US-Israel-Policy-Network
+- Repository: https://github.com/hr185882-creator/us-israel-policy-network
 - Product type: geopolitical and policy-analysis publication
 - Core capabilities: evidence labels, institutional analysis, claim ledger, historical cases, official-source register, and interactive filtering
 
@@ -38,7 +38,7 @@ A source-audited research product examining campaign finance, security assistanc
 An editorial portfolio containing public-interest research products and the methodology behind them.
 
 - Live: https://hasan-research-systems.vercel.app/
-- Repository: https://github.com/hr185882-creator/Research-decision-systems
+- Repository: https://github.com/hr185882-creator/research-decision-systems
 - Includes: EU Chat Control Monitor and The Russian JFK Dossier
 
 ### AURORA Learning Platform
@@ -54,6 +54,7 @@ A decision-intelligence operating system for evidence verification, adversarial 
 
 - Live: https://hr185882-creator.github.io/aurora-grid-grindwire-site/
 - Repository: https://github.com/hr185882-creator/aurora-grid-grindwire-site
+- Canonical v2 architecture: https://github.com/hr185882-creator/aurora-grid-grindwire-site/blob/main/docs/AURORA_GRID_V2_CANONICAL.md
 
 ## Engineering and publication controls
 
@@ -67,22 +68,28 @@ The Epstein Record and RECORD LOCK repositories exclude production corpora, vict
 - AURORA LIVE / Intel Tripwire: https://github.com/hr185882-creator/intel-tripwire
 - Kristi Noem cabinet-stability forecast: [case study](case-studies/kristi-noem-cabinet-stability-forecast.md)
 - Full project index: [PROJECTS.md](PROJECTS.md)
+- Machine-readable estate registry: [portfolio-registry.yaml](portfolio-registry.yaml)
+- Prediction and model-audit records: [prediction-records](prediction-records/)
 - Archived source-kit staging area: [sanitized-repositories](sanitized-repositories/)
 
 ## Analytical method
 
-The core workflow is:
+The active core workflow is:
 
-`SCOUT -> SOURCEGRID -> K-ALIGN -> IPR -> BLACKGLASS -> CRF -> COMMAND -> AURORA GRID -> RECORD LOCK`
+`ROUTER -> SCOUT -> SOURCEGRID -> K-ALIGN -> IPR -> BLACKGLASS-I -> CRF -> COMMAND -> BLACKGLASS-II -> RECORD LOCK`
+
+AAIK operates across the pipeline as the evidence, instability, and exposure governor. Luna, Terra, and Sol are the cognitive control plane. AURORA GRID names the complete operating system rather than a stage inside itself.
 
 The method is designed to:
 
-1. Separate facts, inferences, forecasts, speculation, and unverified claims.
-2. Trace source provenance and identify contamination risks.
-3. Test the strongest contrary case before resolving a judgment.
-4. Identify binding constraints, gate states, triggers, and falsifiers.
-5. Produce explicit probabilities, revision conditions, and action states.
-6. Preserve an auditable record of what was known, assumed, and concluded.
+1. Route questions into the minimum sufficient analytical workflow.
+2. Separate facts, inferences, forecasts, speculation, and unverified claims.
+3. Trace source provenance and identify contamination risks.
+4. Test the strongest contrary case before resolving a forecast.
+5. Identify binding constraints, gate states, triggers, and falsifiers.
+6. Produce explicit probabilities, revision conditions, and action states.
+7. Attack the proposed action for sizing, timing, reversibility, and execution risk.
+8. Preserve an append-only record of what was known, assumed, concluded, revised, and resolved.
 
 ## Professional focus
 
@@ -99,6 +106,6 @@ I am interested in remote or contract work involving:
 ## Contact
 
 - Hasan Raza Kazmi
-- Email: kazmihasan624@gmail.com
+- Email: Grindwireproject@gmail.com
 - Location: Pakistan
 - Work preference: fully remote
