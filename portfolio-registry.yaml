@@ -1,0 +1,366 @@
+schema_version: "1.0.0"
+registry_version: "2026-07-29"
+owner:
+  name: "Hasan Raza Kazmi"
+  github: "hr185882-creator"
+  contact: "Grindwireproject@gmail.com"
+canonical_system:
+  name: "AURORA GRID"
+  public_brand: "GrindWire"
+  architecture_version: "2.0"
+  architecture_url: "https://github.com/hr185882-creator/aurora-grid-grindwire-site/blob/main/docs/AURORA_GRID_V2_CANONICAL.md"
+  workflow:
+    - ROUTER
+    - SCOUT
+    - SOURCEGRID
+    - K-ALIGN
+    - IPR
+    - BLACKGLASS-I
+    - CRF
+    - COMMAND
+    - BLACKGLASS-II
+    - RECORD LOCK
+  cross_system_governor: AAIK
+  cognitive_control_plane:
+    - Luna
+    - Terra
+    - Sol
+status_vocabulary:
+  - CANONICAL
+  - ACTIVE
+  - SUPPORTING
+  - PARTIAL
+  - PLANNED
+  - SUPERSEDED
+  - ARCHIVED
+  - EXPERIMENTAL
+  - DORMANT
+  - CLEANUP_REQUIRED
+repositories:
+  - name: aurora-grid-grindwire-site
+    full_name: hr185882-creator/aurora-grid-grindwire-site
+    visibility: public
+    role: canonical-system-and-public-brand
+    status: CANONICAL
+    deployment_platform: github-pages
+    deployment_url: https://hr185882-creator.github.io/aurora-grid-grindwire-site/
+    data_sensitivity: public
+    action: preserve-and-strengthen
+  - name: aurora-learning-platform
+    full_name: hr185882-creator/aurora-learning-platform
+    visibility: public
+    role: training-and-documentation
+    status: ACTIVE
+    deployment_platform: manus
+    deployment_url: https://auroralearning.manus.space/
+    data_sensitivity: public
+    action: preserve-and-strengthen
+  - name: clia-portfolio
+    full_name: hr185882-creator/clia-portfolio
+    visibility: public
+    role: recruiter-facing-portfolio-index
+    status: CANONICAL
+    deployment_platform: none
+    data_sensitivity: public
+    action: preserve-and-strengthen
+  - name: hr185882-creator
+    full_name: hr185882-creator/hr185882-creator
+    visibility: public
+    role: github-profile
+    status: CANONICAL
+    deployment_platform: github-profile
+    data_sensitivity: public
+    action: preserve-and-strengthen
+  - name: inflection-point-research
+    full_name: hr185882-creator/inflection-point-research
+    visibility: public
+    role: structural-forecasting-layer
+    status: SUPPORTING
+    deployment_platform: none
+    data_sensitivity: public
+    action: preserve-and-strengthen
+  - name: intel-tripwire
+    full_name: hr185882-creator/intel-tripwire
+    visibility: public
+    role: aurora-live-operating-picture
+    status: PARTIAL
+    deployment_platform: not-yet-canonical-public
+    data_sensitivity: public-code-with-secrets-required-at-runtime
+    action: continue-p0-qualification
+  - name: record-lock
+    full_name: hr185882-creator/record-lock
+    visibility: public
+    role: sanitized-evidence-reference-architecture
+    status: ACTIVE
+    deployment_platform: vercel
+    deployment_project: record-lock-platform
+    deployment_url: https://record-lock-platform.vercel.app/
+    data_sensitivity: sanitized-public-reference
+    action: reconcile-with-v2-core-without-publishing-production-corpus
+  - name: research-decision-systems
+    full_name: hr185882-creator/research-decision-systems
+    visibility: public
+    role: editorial-research-portfolio
+    status: ACTIVE
+    deployment_platform: vercel
+    deployment_project: hasan-research-systems
+    deployment_url: https://hasan-research-systems.vercel.app/
+    data_sensitivity: public
+    action: preserve-and-strengthen
+  - name: the-epstein-record
+    full_name: hr185882-creator/the-epstein-record
+    visibility: public
+    role: sanitized-investigative-reference-architecture
+    status: ACTIVE
+    deployment_platform: vercel
+    deployment_project: the-epstein-record
+    deployment_url: https://the-epstein-record.vercel.app/
+    data_sensitivity: sanitized-public-reference
+    action: preserve-and-strengthen
+  - name: us-israel-policy-network
+    full_name: hr185882-creator/us-israel-policy-network
+    visibility: public
+    role: policy-and-institutional-network-analysis
+    status: ACTIVE
+    deployment_platform: vercel
+    deployment_project: youname-it
+    deployment_url: https://youname-it.vercel.app/
+    data_sensitivity: public-sensitive-topic
+    action: rename-vercel-project-when-supported
+  - name: chat-control-news
+    full_name: hr185882-creator/chat-control-news
+    visibility: private
+    role: advanced-full-stack-chat-control-monitor
+    status: PARTIAL
+    deployment_platform: none-currently-detected
+    data_sensitivity: private-development
+    superseded_by: planned-eu-chat-control-monitor
+    action: consolidate-with-eu-chat-control-2026
+  - name: eu-chat-control-2026
+    full_name: hr185882-creator/eu-chat-control-2026
+    visibility: private
+    role: alternate-full-stack-chat-control-monitor
+    status: PARTIAL
+    deployment_platform: railway-config-present
+    data_sensitivity: private-development
+    superseded_by: planned-eu-chat-control-monitor
+    action: consolidate-with-chat-control-news
+  - name: israeli-influence-report
+    full_name: hr185882-creator/israeli-influence-report
+    visibility: private
+    role: predecessor-policy-report
+    status: SUPERSEDED
+    deployment_platform: none-currently-detected
+    data_sensitivity: private-sensitive-topic
+    superseded_by: hr185882-creator/us-israel-policy-network
+    action: retain-history-and-add-supersession-notice
+  - name: nextjs-ai-chatbot
+    full_name: hr185882-creator/nextjs-ai-chatbot
+    visibility: private
+    role: unused-vercel-template
+    status: DORMANT
+    deployment_platform: vercel
+    deployment_project: nextjs-ai-chatbot
+    data_sensitivity: private-development
+    action: archive-or-delete-after-confirming-no-reusable-code
+  - name: dissentbot
+    full_name: hr185882-creator/dissentbot
+    visibility: public
+    role: early-interface-experiment
+    status: DORMANT
+    deployment_platform: none-currently-detected
+    data_sensitivity: public
+    action: archive-with-experiment-notice
+  - name: chili3d-we
+    full_name: hr185882-creator/chili3d-we
+    visibility: public
+    role: legacy-3d-experiment
+    status: ARCHIVED
+    deployment_platform: github-pages-history
+    data_sensitivity: public
+    action: retain-archive
+  - name: personality-body-shape-study
+    full_name: hr185882-creator/personality-body-shape-study
+    visibility: public
+    role: unrelated-legacy-study
+    status: ARCHIVED
+    deployment_platform: github-pages-history
+    data_sensitivity: public
+    action: retain-outside-primary-portfolio
+  - name: Trip
+    full_name: hr185882-creator/Trip
+    visibility: public
+    role: early-inflection-engine
+    status: SUPERSEDED
+    deployment_platform: none
+    data_sensitivity: public
+    superseded_by: hr185882-creator/inflection-point-research
+    action: add-supersession-notice
+  - name: Hasan-Raza-Kazmi-Creator-
+    full_name: hr185882-creator/Hasan-Raza-Kazmi-Creator-
+    visibility: public
+    role: obsolete-profile-repository
+    status: ARCHIVED
+    deployment_platform: none
+    data_sensitivity: public
+    superseded_by: hr185882-creator/hr185882-creator
+    action: retain-archive
+planned_repositories:
+  - name: aurora-grid-core
+    role: runnable-v2-core-engine
+    status: PLANNED
+    current_artifact: conversation-export-aurora-grid-v2.zip
+    required_contents:
+      - FastAPI service
+      - Pydantic schemas
+      - SQLite ledger
+      - append-only database controls
+      - SHA-256 RECORD LOCK chain
+      - calibration scoring
+      - CLI
+      - dashboard
+      - OpenAPI contract
+      - automated tests
+    blocker: connected-github-tool-does-not-expose-repository-creation
+  - name: eu-chat-control-monitor
+    role: consolidated-canonical-chat-control-product
+    status: PLANNED
+    source_repositories:
+      - hr185882-creator/chat-control-news
+      - hr185882-creator/eu-chat-control-2026
+    blocker: consolidation-branch-and-runtime-decision-required
+vercel_team:
+  name: "Hasan Kazmi 's projects"
+  id: team_vJvJfPQ8u3lALsSFSEHU5638
+vercel_projects:
+  - name: record-lock-platform
+    id: prj_SjsgLF6CvRU7ZrYl9NUTCxGYR08c
+    class: canonical-product
+    status: ACTIVE
+    canonical_domain: record-lock-platform.vercel.app
+    last_observed_state: READY
+  - name: the-epstein-record
+    id: prj_DfrivMZHwvMABGKC6mmCKGSZPQcH
+    class: canonical-product
+    status: ACTIVE
+    canonical_domain: the-epstein-record.vercel.app
+    last_observed_state: READY
+  - name: youname-it
+    id: prj_Kz7dAKqdBwjPlOd1jMt9OrM29kJJ
+    class: canonical-product-with-naming-debt
+    status: ACTIVE
+    canonical_domain: youname-it.vercel.app
+    last_observed_state: READY
+    desired_name: us-israel-policy-network
+  - name: hasan-research-systems
+    id: prj_xyEY22d9JDG7dJWDNMPEXzejL80S
+    class: canonical-product
+    status: ACTIVE
+    canonical_domain: hasan-research-systems.vercel.app
+    last_observed_state: READY
+  - name: melissa-birthday-card
+    id: prj_ULHzFweeZiYQsviFxV7WuPf2qi4L
+    class: personal-project
+    status: ACTIVE
+    canonical_domain: melissa-birthday-card.vercel.app
+    last_observed_state: READY
+  - name: aurora-grid-iran-war-audit
+    id: prj_Kg14P5Vv4XexgAg2gT5JWZWu8Yoa
+    class: case-study
+    status: ACTIVE
+    canonical_domain: aurora-grid-iran-war-audit.vercel.app
+    last_observed_state: READY
+  - name: aurora-grid-iran-preview
+    id: prj_aRtROXKLF9PRzKhRsDXviBLUseci
+    class: preview-case-study
+    status: CONSOLIDATE
+    canonical_domain: aurora-grid-iran-preview.vercel.app
+    last_observed_state: READY
+    desired_disposition: preserve-as-preview-or-merge-into-case-study
+  - name: nextjs-ai-chatbot
+    id: prj_M2eqkpUdA9MgUEQNETISJykw2lJh
+    class: dormant-template
+    status: CLEANUP_REQUIRED
+    last_observed_state: NO_DEPLOYMENT
+  - name: record-lock-shell-test
+    id: prj_wA63h1Deqaj6ZTWmH6xU8D7N5hCJ
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: ERROR
+  - name: record-lock-shell-test2
+    id: prj_7xaskeF6EKrXVXE8KuJJb3v2VRZm
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: ERROR
+  - name: record-lock-route-test
+    id: prj_pDmXe18WRQTDOXl8ySk1lCxok4Ap
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: READY
+  - name: vercel-gzip-static-test
+    id: prj_jS2bBcLFLZ2Dkt4aXVML0U9fwnwP
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: READY
+  - name: vercel-incremental-test
+    id: prj_MzOr9oDcq5LGhbLQC2230JHMVJI5
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: READY
+  - name: epstein-tar-router-test
+    id: prj_G0xwgKoKg3ktYUFt8Bn3aROGBdvU
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: READY
+  - name: vercel-local-path-test
+    id: prj_iEL01tbbykXn5beCqzR9rHp4lfx8
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: READY
+  - name: vercel-binary-schema-test
+    id: prj_YjFAAut7Br3jOynSPRJBiVcOZdzK
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: READY
+  - name: the-epstein-record-test
+    id: prj_9AsNmASBZNra6MP298ceghZsfkWm
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: READY
+  - name: the-epstein-record-schema-test
+    id: prj_64HnFrF8FtAUk3IZfboXhxPJ3xL1
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: READY
+  - name: the-epstein-record-path-test
+    id: prj_QGirI2Y5jQEKfbtCopn4sxI5EZSk
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: READY
+  - name: the-epstein-record-pathdata-test
+    id: prj_2qH2CBGwQEpufZJk08paDBmB27SC
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: READY
+  - name: og-binary-test
+    id: prj_Q4Ffdb4WgLKunYrZnLwnX7DgZHwY
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: READY
+  - name: aurora-grid-dossier-test
+    id: prj_PJfHqU3HHVCyg77O4G1mm43NumtI
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: READY
+  - name: aurora-grid-iran-audit-test
+    id: prj_973zUEDpioj1Gi2RRal8mQlRa2Yw
+    class: disposable-test
+    status: CLEANUP_REQUIRED
+    last_observed_state: READY
+cleanup_policy:
+  destructive_changes_require:
+    - preserve-useful-deployment-notes
+    - verify-no-canonical-domain-dependency
+    - confirm-no-required-environment-or-build-config-is-unique
+    - delete-or-archive-through-an-authenticated-interface-that-exposes-project-deletion
+  current_connector_limitation: vercel-connector-exposes-read-and-deploy-actions-but-not-project-deletion-or-renaming
